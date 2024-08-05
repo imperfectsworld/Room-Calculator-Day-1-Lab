@@ -1,0 +1,14 @@
+C:\Users\imper\source\repos\Room Calculator lab Day1\Room Calculator lab Day1\bin\Debug\net8.0\Room Calculator lab Day1.exe
+C:\Users\imper\source\repos\Room Calculator lab Day1\Room Calculator lab Day1\bin\Debug\net8.0\Room Calculator lab Day1.deps.json
+C:\Users\imper\source\repos\Room Calculator lab Day1\Room Calculator lab Day1\bin\Debug\net8.0\Room Calculator lab Day1.runtimeconfig.json
+C:\Users\imper\source\repos\Room Calculator lab Day1\Room Calculator lab Day1\bin\Debug\net8.0\Room Calculator lab Day1.dll
+C:\Users\imper\source\repos\Room Calculator lab Day1\Room Calculator lab Day1\bin\Debug\net8.0\Room Calculator lab Day1.pdb
+C:\Users\imper\source\repos\Room Calculator lab Day1\Room Calculator lab Day1\obj\Debug\net8.0\Room Calculator lab Day1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\imper\source\repos\Room Calculator lab Day1\Room Calculator lab Day1\obj\Debug\net8.0\Room Calculator lab Day1.AssemblyInfoInputs.cache
+C:\Users\imper\source\repos\Room Calculator lab Day1\Room Calculator lab Day1\obj\Debug\net8.0\Room Calculator lab Day1.AssemblyInfo.cs
+C:\Users\imper\source\repos\Room Calculator lab Day1\Room Calculator lab Day1\obj\Debug\net8.0\Room Calculator lab Day1.csproj.CoreCompileInputs.cache
+C:\Users\imper\source\repos\Room Calculator lab Day1\Room Calculator lab Day1\obj\Debug\net8.0\Room Calculator lab Day1.dll
+C:\Users\imper\source\repos\Room Calculator lab Day1\Room Calculator lab Day1\obj\Debug\net8.0\refint\Room Calculator lab Day1.dll
+C:\Users\imper\source\repos\Room Calculator lab Day1\Room Calculator lab Day1\obj\Debug\net8.0\Room Calculator lab Day1.pdb
+C:\Users\imper\source\repos\Room Calculator lab Day1\Room Calculator lab Day1\obj\Debug\net8.0\Room Calculator lab Day1.genruntimeconfig.cache
+C:\Users\imper\source\repos\Room Calculator lab Day1\Room Calculator lab Day1\obj\Debug\net8.0\ref\Room Calculator lab Day1.dll
